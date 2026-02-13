@@ -34,3 +34,7 @@ Source files are included to allow personal modification in accordance with the 
 
 ## Agda
 <img width=500 align="center" src="./agda/agda.svg">
+
+## Haskell
+<img width=500 align="center" src="./haskell/haskell.svg">
+(WIP)
