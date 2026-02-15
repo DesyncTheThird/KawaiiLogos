@@ -37,4 +37,3 @@ Source files are included to allow personal modification in accordance with the 
 
 ## Haskell
 <img width=500 align="center" src="./haskell/haskell.svg">
-(WIP)
