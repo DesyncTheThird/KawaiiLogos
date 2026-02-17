@@ -1,4 +1,5 @@
-png.kra
+*.kra
 print
 *-print.png
 *-outline.png
+*-raw.png

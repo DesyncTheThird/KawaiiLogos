@@ -40,3 +40,23 @@ Source files are included to allow personal modification in accordance with the 
 
 ## OCaml
 <img width=500 align="center" src="./ocaml/ocaml.svg">
+
+## Idris
+<img width=500 align="center" src="./idris/idris.svg">
+WIP
+
+## Rocq
+<!-- <img width=500 align="center" src="./rocq/rocq.svg"> -->
+WIP
+
+## APL
+<!-- <img width=500 align="center" src="./apl/apl.svg"> -->
+WIP
+
+## Isabelle
+<!-- <img width=500 align="center" src="./isabelle/isabelle.svg"> -->
+WIP
+
+## Scala
+<!-- <img width=500 align="center" src="./scala/scala.svg"> -->
+WIP
