@@ -40,5 +40,3 @@ Source files are included to allow personal modification in accordance with the 
 
 ## OCaml
 <img width=500 align="center" src="./ocaml/ocaml.svg">
-
-WIP
