@@ -116,7 +116,7 @@ Source files are included to allow personal modification in accordance with the 
 
 
 ## APL
-<!-- <img width=500 align="center" src="./apl/apl.svg"> -->
+<img width=500 align="center" src="./apl/apl.svg">
 
 ## Julia
 <!-- <img width=500 align="center" src="./julia/julia.svg"> -->
