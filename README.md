@@ -47,6 +47,9 @@ Source files are included to allow personal modification in accordance with the 
 ## Idris
 <img width=500 align="center" src="./idris/idris.svg">
 
+## APL
+<img width=500 align="center" src="./apl/apl.svg">
+
 
 
 # WIP/TODO
@@ -114,9 +117,6 @@ Source files are included to allow personal modification in accordance with the 
 <!-- <img width=500 align="center" src="./qmk/qmk.svg"> -->
 
 
-
-## APL
-<img width=500 align="center" src="./apl/apl.svg">
 
 ## Julia
 <!-- <img width=500 align="center" src="./julia/julia.svg"> -->
