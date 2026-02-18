@@ -50,6 +50,9 @@ Source files are included to allow personal modification in accordance with the 
 ## APL
 <img width=500 align="center" src="./apl/apl.svg">
 
+## Rocq
+<img width=500 align="center" src="./rocq/rocq.svg">
+
 
 
 # WIP/TODO
@@ -70,9 +73,6 @@ Source files are included to allow personal modification in accordance with the 
 
 ## Isabelle
 <!-- <img width=500 align="center" src="./isabelle/isabelle.svg"> -->
-
-## Rocq
-<img width=500 align="center" src="./rocq/rocq.svg">
 
 
 
