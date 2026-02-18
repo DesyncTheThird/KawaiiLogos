@@ -69,7 +69,7 @@ Source files are included to allow personal modification in accordance with the 
 <!-- <img width=500 align="center" src="./isabelle/isabelle.svg"> -->
 
 ## Rocq
-<!-- <img width=500 align="center" src="./rocq/rocq.svg"> -->
+<img width=500 align="center" src="./rocq/rocq.svg">
 
 
 
