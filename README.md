@@ -53,12 +53,12 @@ Source files are included to allow personal modification in accordance with the 
 ## Rocq
 <img width=500 align="center" src="./rocq/rocq.svg">
 
+## ETCS
+<img width=500 align="center" src="./etcs/etcs.svg">
+
 
 
 # WIP/TODO
-
-## ETCS
-<img width=500 align="center" src="./etcs/etcs.svg">
 
 ## ZFC
 <!-- <img width=500 align="center" src="./zfc/zfc.svg"> -->
