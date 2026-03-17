@@ -58,7 +58,7 @@ Source files are included to allow personal modification in accordance with the 
 # WIP/TODO
 
 ## ETCS
-<!-- <img width=500 align="center" src="./etcs/etcs.svg"> -->
+<img width=500 align="center" src="./etcs/etcs.svg">
 
 ## ZFC
 <!-- <img width=500 align="center" src="./zfc/zfc.svg"> -->
