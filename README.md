@@ -56,6 +56,9 @@ Source files are included to allow personal modification in accordance with the 
 ## ETCS
 <img width=500 align="center" src="./etcs/etcs.svg">
 
+## QMK
+<img width=500 align="center" src="./qmk/qmk.svg">
+
 
 
 # WIP/TODO
@@ -112,9 +115,6 @@ Source files are included to allow personal modification in accordance with the 
 
 ## Jupyter
 <!-- <img width=500 align="center" src="./jupyter/jupyter.svg"> -->
-
-## QMK
-<!-- <img width=500 align="center" src="./qmk/qmk.svg"> -->
 
 
 
