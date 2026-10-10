@@ -59,6 +59,9 @@ Source files are included to allow personal modification in accordance with the 
 ## QMK
 <img width=500 align="center" src="./qmk/qmk.svg">
 
+## Mikan
+<img width=500 align="center" src="./mikan/mikan.svg">
+
 
 
 # WIP/TODO
